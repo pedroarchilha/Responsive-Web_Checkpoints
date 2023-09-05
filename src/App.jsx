@@ -9,6 +9,7 @@ function App()
     <>
       <Menu/>
       <Outlet/>
+      <Rodape/>
     </>
   )
 }
